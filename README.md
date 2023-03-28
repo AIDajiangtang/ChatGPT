@@ -121,7 +121,7 @@ You can look at **[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt
 
 ## 中国用户
 
-国内用户如果遇到使用问题或者想交流 ChatGPT 技巧，可以关注公众号“人工智能大讲堂”，
+国内用户如果遇到使用问题或者想交流 ChatGPT 技巧，可以关注微信公众号“人工智能大讲堂”，
 
 
 ## License

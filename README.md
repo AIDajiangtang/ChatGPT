@@ -121,9 +121,9 @@ You can look at **[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt
 
 ## 中国用户
 
-国内用户如果遇到使用问题或者想交流 ChatGPT 技巧，可以关注微信公众号“人工智能大讲堂”
-<img width="180" src="https://mmbiz.qpic.cn/mmbiz_jpg/gWS53OdTR9QUHibcnbqRrHCkPsrcpsFWN5uic1ibz15Q7OCpyHFkibpkichVf9BulRibALcseNcvQ0aPAImRwApTEmIA/0?wx_fmt=jpeg">
-专注人工智能数学原理与前沿应用，专栏包括：线性代数，概率统计，机器学习，深度学习
+国内用户如果遇到使用问题或者想交流 ChatGPT 技巧，可以关注微信公众号“人工智能大讲堂”<br />
+<img width="180" src="https://mmbiz.qpic.cn/mmbiz_jpg/gWS53OdTR9QUHibcnbqRrHCkPsrcpsFWN5uic1ibz15Q7OCpyHFkibpkichVf9BulRibALcseNcvQ0aPAImRwApTEmIA/0?wx_fmt=jpeg"><br />
+专注人工智能数学原理与前沿应用，专栏包括：线性代数，概率统计，机器学习，深度学习<br />
 ## License
 
 AGPL-3.0 License

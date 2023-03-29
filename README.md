@@ -122,7 +122,7 @@ You can look at **[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt
 ## 中国用户
 
 国内用户如果遇到使用问题或者想交流 ChatGPT 技巧，可以关注微信公众号“人工智能大讲堂”
-![image](https://mmbiz.qpic.cn/mmbiz_jpg/gWS53OdTR9QUHibcnbqRrHCkPsrcpsFWN5uic1ibz15Q7OCpyHFkibpkichVf9BulRibALcseNcvQ0aPAImRwApTEmIA/0?wx_fmt=jpeg)  
+<img width="180" src="[https://user-images.githubusercontent.com/16164244/207228300-ea5c4688-c916-4c55-a8c3-7f862888f351.png](https://mmbiz.qpic.cn/mmbiz_jpg/gWS53OdTR9QUHibcnbqRrHCkPsrcpsFWN5uic1ibz15Q7OCpyHFkibpkichVf9BulRibALcseNcvQ0aPAImRwApTEmIA/0?wx_fmt=jpeg)">
 专注人工智能数学原理与前沿应用，专栏包括：线性代数，概率统计，机器学习，深度学习
 ## License
 
